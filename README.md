@@ -237,3 +237,13 @@ void turn(bool left, Vector3f torque, float delta_time, Matrix3f inertia) {
 ```
 
 3. ue4 中设置键盘映射，通过按键调用上述函数，从而在 ue4 中操作
+
+<center>
+    <div style="display:inline">
+        <img src="img/keyboard_mapping.png" height="200">
+    </div>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9; display: inline-block; color: #999; padding: 2px;">
+        keyboard mapping
+    </div>
+</center>
